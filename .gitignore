@@ -1,0 +1,30 @@
+# Android Studio
+.idea
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/caches
+/.idea/modules.xml
+.DS_Store
+/build
+.externalNativeBuild
+
+# Gradle files
+/gradle/wrapper/gradle-wrapper.properties
+**/build/
+**/captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (remove if not using Firebase)
+google-services.json
+
+# Misc
+*.iml
+.gradle/
+.idea/
+/app/build/
+*.apk
